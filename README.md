@@ -31,5 +31,5 @@
 - Python Data Analysis
 
 ## 📫 Connect with Me
-- LinkedIn: (Apna LinkedIn link)
-- Email: (Apna professional email)
+- LinkedIn: https://www.linkedin.com/in/aadil-fayaz/
+- Email: miraadil264@gmail.com
