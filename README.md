@@ -22,13 +22,13 @@
 - Get a Data Analyst Internship
 - Improve problem-solving skills
 
-## 📂 Featured Projects
-- Sales Data Analysis
-- HR Analytics Dashboard
-- Netflix Data Analysis
-- Superstore Dashboard
-- SQL Practice
-- Python Data Analysis
+## 📌 Featured Projects
+
+- [Coffee Shop Sales Dashboard— Excel
+- PhonePe Transaction Analysis — Power BI
+- Sales Performance Dashboard — Excel
+- Customer Behavior Analysis Python, SQL & Power BI
+- IKEA Customer Analytics & RFM Segmentation — SQL, Python & Power BI
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/aadil-fayaz/
