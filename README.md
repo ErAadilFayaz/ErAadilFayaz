@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects
 
-- [Coffee Shop Sales Dashboard— Excel
+- Coffee Shop Sales Dashboard— Excel
 - PhonePe Transaction Analysis — Power BI
 - Sales Performance Dashboard — Excel
 - Customer Behavior Analysis Python, SQL & Power BI
